@@ -1,0 +1,6 @@
+module Pods_TractivApp_TractivAppTests {
+  umbrella header "Pods-TractivApp-TractivAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
